@@ -1,0 +1,23 @@
+nav {
+    background-color: white;
+}
+
+main {
+    height: 600px;
+    background: url("/images/bg-masthead.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.imageItem img {
+    height: auto;
+    width: 100%;
+}
+
+.iconItem img {
+    height: auto;
+    width: 50%;
+}
+
+.itemfooter i {
+    color: blue;
+}
